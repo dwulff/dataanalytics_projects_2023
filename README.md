@@ -1,2 +1,3 @@
-# dataanalytics_projects_2023
-Data analytics projects 2023
+## Dataanalytics projects 2023
+
+This is the home of the data analytics project by XX, XX, XX
